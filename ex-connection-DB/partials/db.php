@@ -1,6 +1,5 @@
 <?php
 // DATABASE CONNECTION
-// 1. Setup (costanti)
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', 'root');
